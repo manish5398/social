@@ -17,13 +17,13 @@ export default function Profile() {
                             <img src="assets/person/7.jpeg" alt="" className="ProfileUserImg" />
                         </div>
                         <div className="ProfileInfo">
-                            <h4 className="ProfileInfoName">Safak KOcaoglu</h4>
+                            <h4 className="ProfileInfoName">Safak Kocaoglu</h4>
                             <span className="ProfileInfoDesc">Hello My Friends</span>
                         </div>
                     </div>
                     <div className="profileRightBottom">
                         <Feed />
-                        < Rightbar profile/>
+                        < Rightbar Profile/>
                     </div>
                 </div>
             </div>
